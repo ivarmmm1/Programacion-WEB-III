@@ -1,0 +1,2 @@
+//Callbacks: Son útiles para operaciones asíncronas simples, donde no hay muchas dependencias entre tareas. Sin embargo, pueden llevar al "callback hell" si se anidan demasiado.
+//Promesas: Son más adecuadas cuando necesitas manejar múltiples operaciones asíncronas en secuencia o en paralelo, y quieres evitar el "callback hell". Las promesas permiten encadenar operaciones de manera más clara y manejar errores con .catch().
